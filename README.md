@@ -1,3 +1,5 @@
+# This Dockerfile is not maintained anymore!
+
 # docker-gobby
 Docker image for a Gobby Server (infinoted)
 
